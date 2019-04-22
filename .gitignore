@@ -1,0 +1,9 @@
+*.idea
+*.csv
+data/
+data_extraction/
+*.ipynb_checkpoints
+.DS_Store
+*.png
+*.pdf
+expertise-explorer/__pycache__/
